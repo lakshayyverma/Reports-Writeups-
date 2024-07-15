@@ -1,3 +1,9 @@
 # README
 
+## Writeups & Reports
+
 This repository contains a comprehensive collection of detailed writeups and reports documenting my journey through Hack The Box machines, Capture The Flag (CTF) challenges, and other cybersecurity exercises. The repository is organized into folders for Hack The Box and CTF events, each containing individual markdown files with step-by-step exploit and root processes, supported by relevant screenshots. Contributions are welcome through forked branches and pull requests. Licensed under the MIT License, this project aims to educate and share knowledge within the cybersecurity community, with a strict adherence to ethical guidelines. Unauthorized testing or hacking is illegal and unethical. For questions or feedback, please open an issue or contact me directly. Happy hacking!
+
+## Disclaimer
+
+All the writeups and reports in this repository are for educational purposes only. Unauthorized testing or hacking into networks and systems without explicit permission is illegal and unethical.
